@@ -1,0 +1,5 @@
+flask
+pytest
+pylint
+astroid==2.15.8
+bandit
